@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "node ./node_modules/php-watcher/index.js --conf=watch.json"
+    "watch": "node ./node_modules/php-watcher/index.js --conf=watch.conf.js"
   },
   "author": "",
   "license": "ISC"
