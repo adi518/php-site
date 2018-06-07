@@ -1,0 +1,8 @@
+{
+  "php": "C:/php",
+  "command": "deploy.php",
+  "watchDir": "mobile",
+  "watchOptions": {
+    "recursive": true
+  }
+}

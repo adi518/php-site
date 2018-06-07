@@ -1,0 +1,1 @@
+cmd /k node ./node_modules/php-watcher/index.js --conf=./watch.json
