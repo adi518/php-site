@@ -1,8 +1,5 @@
 {
   "php": "C:/php",
   "command": "deploy.php",
-  "watchDir": "src",
-  "watchOptions": {
-    "recursive": true
-  }
+  "watchDir": "src"
 }
